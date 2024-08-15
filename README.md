@@ -18,8 +18,7 @@
 <ul>
     <li>HTML, CSS, JavaScript</li>
     <li>GitHub API</li>
-    <li>Bootstrap (optional, if used)</li>
-    <li>Fetch API / Axios (optional, if used)</li>
+    <li>Fetch API</li>
 </ul>
 
 <h2>Setup:</h2>
@@ -28,8 +27,3 @@
     <li>Open <code>index.html</code> in a web browser.</li>
     <li>Enter a GitHub username in the search bar to view the profile details.</li>
 </ol>
-
-<h2>Contributing:</h2>
-<p>
-    Contributions, issues, and feature requests are welcome! Feel free to check the <a href="#">issues page</a> if you have any suggestions or problems.
-</p>
