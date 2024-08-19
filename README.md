@@ -21,6 +21,11 @@
     <li>Fetch API</li>
 </ul>
 
+<h2>Live View:</h2>
+<p>
+    You can view the live application <a href="https://ghub-search.netlify.app/" target="_blank">here</a>.
+</p>
+
 <h2>Setup:</h2>
 <ol>
     <li>Clone the repository.</li>
